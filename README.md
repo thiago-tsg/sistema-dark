@@ -1,6 +1,6 @@
 # sistema-dark
 
-Ao clicar neste <a href="https://thiago-tsg.github.io/sistema-dark/html" target="_blank">link</a>, você será redirecionado para visualizar um projeto de mudança de tela, para dark.<br><br>
+Ao clicar neste <a href="https://thiago-tsg.github.io/sistema-dark/html" target="_blank">link</a>, você será redirecionado para visualizar um projeto sistema Dark Mode.<br>
 
 <strong>
 Este projeto é totalmente responsivo, utilizando JavaScript, HTML5 e CSS3 em sua estrutura.<br>
